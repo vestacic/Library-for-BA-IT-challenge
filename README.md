@@ -13,3 +13,4 @@ First form:
   
   Back to the first form - the third toolstrip menu item opens the third form where user can reserve or borrow the book they wants to have. They needs to specify all the parameters of the book and choose one of the buttons to either reserve or borrow the book. After that, the message appears which informs whether the action was completed successfully or not (the book was not found or isn't free). 
   
+Toolstrip menu item "Return book" allows the librarian to register the returning book and if one is not found, then it is registered as new in the list.
